@@ -7,9 +7,11 @@ Read-the-Docs使用笔记
 =====================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 2
+    :caption: Contents:
 
+    intro
+    FAQ
 
 
 Indices and tables
